@@ -1,0 +1,37 @@
+body{
+    color:#d39dea;
+    background: url('../img/loginBg.jpg');
+}
+
+.loginCard{
+    height:350px;
+    background-color: #581b988a;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 10px;
+}
+.mt-10{
+    margin-top:100px;
+}
+.logoImg{
+    width:70px;
+    height:50px;
+}
+.font{
+    font-size: 20px;
+    font-family: 'Sigmar', cursive;
+}
+.bg-purple{
+    background-color: #581b98;
+}
+
+.login{
+    background-color: #d39dea;
+    margin:20px;
+    padding:10px 25px;
+}
+.login:hover{
+    color:#d39dea;
+    background-color: black;
+    transition:ease-in-out 0.5s;
+}
+
